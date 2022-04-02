@@ -1,0 +1,4 @@
+{"prediction_results": [
+{"file_name": "test1.csv", "end_periods": [30, 3000], "leakages": [0, 1]},
+{"file_name": "test2.csv", "end_periods": [600, 7000], "leakages": [0, 1]}
+]}
